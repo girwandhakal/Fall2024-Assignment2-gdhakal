@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fall2024-Assignment2-gdhakal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a04e844c6b97219b1da9005d597a9ced7377ea74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd44aa25f9b306f1f18bba6d62f9f2194bf9a0c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fall2024-Assignment2-gdhakal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fall2024-Assignment2-gdhakal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
