@@ -5,18 +5,13 @@
 }
 
 body {
-    background-image: url('bg_image.jpg');
+    background-image: url('bg2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat:no-repeat;
 }
-/* Font Styling for Titles */
-.moderustic-title {
-    font-family: "Moderustic", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-}
+
+
 
 /* Restyled h1 */
 h1 {
@@ -28,8 +23,8 @@ h1 {
     place-content: center;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    font-family: 'Arial', sans-serif;
-    font-size: 24px;
+    font-family: "Gotu", sans-serif;
+    font-size: 2rem;
     max-width: 80%;
     text-align: center;
 }

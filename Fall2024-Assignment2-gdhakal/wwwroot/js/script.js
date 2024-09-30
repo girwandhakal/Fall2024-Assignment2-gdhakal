@@ -1,4 +1,5 @@
 function apiSearch() {
+    document.getElementById("searchResults").style.visibility= "visibile";
     var params = {
         'q': $('#query').val(),
         'count': 50,
@@ -12,7 +13,7 @@ function apiSearch() {
         headers: {
             'Ocp-Apim-Subscription-Key': '01baec8dedab45ba9a21909bfcc4c267'
         }
-    })
+    })  
         .done(function (data) {
             var len = data.webPages.value.length;
             var results = '';
